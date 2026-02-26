@@ -149,7 +149,9 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+![WhatsApp Image 2026-02-26 at 11 00 39 AM](https://github.com/user-attachments/assets/8d740f90-ce5b-423a-9821-5c1b6b33c1f3)
 
+![WhatsApp Image 2026-02-26 at 11 00 51 AM](https://github.com/user-attachments/assets/b0a73844-a79c-4592-a1a8-6f88651d6658)
 
 
 
